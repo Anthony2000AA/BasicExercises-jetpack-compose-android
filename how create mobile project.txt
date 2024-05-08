@@ -89,6 +89,10 @@ ponerlo tmb en el manifest, en la parte de applicaiton
 
 
 
+PARA COLOCAR ICONO A LA APLICACION:
 
-
+descargar la imagen en png, luego en recursos /sin el generated
+luego a new, luego imageAsset, luego seleccionas
+el path de la imagen osea la ruta, luego al BackgroudnLayer, para
+cambiar el fondo 
 
